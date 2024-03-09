@@ -18,6 +18,7 @@ arr.shift();//removes the first element of the array
 console.log(arr);
 const newArr = arr.join(",");//converts the value to string comma seperated.
 console.log(newArr);
+
 //slice and splice
 //The slice() method extracts a part of a string.
 //The slice() method returns the extracted part in a new string.
@@ -28,8 +29,8 @@ console.log(newArr);
 
 const myn1 = arr.slice(1,3);
 console.log(myn1);
-console.log(arr);//
+console.log(arr);//did not changed the original array
 const myn2 = arr.splice(1,3);
 console.log(myn2);
-console.log(arr);
+console.log(arr);//overwrites the original array
 
