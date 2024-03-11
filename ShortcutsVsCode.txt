@@ -1,0 +1,2 @@
+1:move line of code up down = ALT + Up key or down key
+2:copy line of code below = alt + shift + down key
