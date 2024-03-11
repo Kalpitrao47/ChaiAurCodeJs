@@ -91,10 +91,10 @@
 // }
 
 
-var numbersArray = [14,21,58,75];
-var sum = 0;
+// var numbersArray = [14,21,58,75];
+// var sum = 0;
 
-for(var i = 0; i < numbersArray.length; i++){
-    sum = sum + numbersArray[i];
-}
-console.log(sum);
+// for(var i = 0; i < numbersArray.length; i++){
+//     sum = sum + numbersArray[i];
+// }
+// console.log(sum);
